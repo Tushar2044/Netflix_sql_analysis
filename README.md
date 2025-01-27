@@ -1,5 +1,4 @@
 # Netflix Movies and TV Shows Analysis
-## This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
 ![Netflix_logo](https://github.com/Tushar2044/Netflix_sql_analysis/blob/main/logo.png)
 
